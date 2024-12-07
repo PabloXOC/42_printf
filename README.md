@@ -94,15 +94,6 @@ int main(void)
 
 ---
 
-## Key Considerations
-
-- **No Buffer Management**: Unlike the original `printf`, `ft_printf` does not implement buffer management.
-- **Specifiers Supported**: Handles common format specifiers, including character, string, pointer, integer, unsigned, and hexadecimal.
-- **Memory Management**: Utilizes `malloc` and `free` as necessary for dynamic memory allocation.
-- **Error Handling**: Returns the number of characters printed, or an error code if something goes wrong.
-
----
-
 ## Learnings and Reflections
 
 This project provided valuable insights into:
