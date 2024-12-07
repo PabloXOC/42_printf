@@ -108,5 +108,3 @@ By implementing `ft_printf`, I have developed a deeper understanding of how form
 ## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-```
-
