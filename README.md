@@ -119,4 +119,3 @@ By implementing `ft_printf`, I have developed a deeper understanding of how form
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 
-This README provides a comprehensive but concise explanation of the `ft_printf` project, highlighting its features, usage, and the lessons learned from implementing it. It ensures that users can easily understand how to use the function and the purpose of the project. Let me know if you need any changes!
