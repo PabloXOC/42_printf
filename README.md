@@ -56,25 +56,12 @@ make
 
 This will compile the library into `libftprintf.a` and create the object files. You can use the library in your projects by linking to it when compiling your code.
 
-To clean the project files, use:
+### Cleaning Up
+Use the following commands for cleanup:
 
-```bash
-make clean
-```
-
-To remove object files and the compiled library, use:
-
-```bash
-make fclean
-```
-
-To rebuild the library from scratch, use:
-
-```bash
-make re
-```
-
----
+- `make clean`: Remove object files.
+- `make fclean`: Remove object files and the compiled library.
+- `make re`: Rebuild the library from scratch.
 
 ## Usage Example
 
@@ -94,7 +81,7 @@ int main(void)
 
 ---
 
-## Learnings and Reflections
+## Learnings
 
 This project provided valuable insights into:
 - **Variadic Functions**: Working with variable arguments using `va_start`, `va_arg`, and `va_end`.
